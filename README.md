@@ -6,3 +6,5 @@
 * 딥러닝 수업
 * 고급 딥러닝 수업
   
+밑바닥부터 시작하는 딥러닝에서 사용한 코드들은 아래 사이트에서 모두 찾을 수 있음
+https://github.com/WegraLee/deep-learning-from-scratch
